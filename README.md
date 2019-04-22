@@ -8,7 +8,7 @@ Second normal form (if any)
 Third normal form (if any)
 
 
-![image](https://user-images.githubusercontent.com/40825848/54499266-0abd6700-4910-11e9-9e49-fdb4160a715c.png)
+![image](https://i.imgur.com/tHQ8tgk.png)
 
 
 The table above have the following violations:
@@ -64,5 +64,5 @@ Draw a representation of of the B+ tree with index and leaf nodes, as well as th
 
 The query is as the table below
 
-![image](https://user-images.githubusercontent.com/40825848/54499937-e9607900-4917-11e9-898a-9f6ea2077bff.png)
+![image](https://i.imgur.com/h05ENDx.png)
 
